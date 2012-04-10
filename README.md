@@ -1,5 +1,4 @@
 ## MongoDB server monitor for windows
----
 
 A tool for controlling a mongodb-server instance on windows.
 
