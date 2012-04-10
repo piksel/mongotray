@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("MongoDB Handler")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("piksel bitworks")]
-[assembly: AssemblyProduct("posTools")]
+[assembly: AssemblyProduct("")]
 [assembly: AssemblyCopyright("Copyright © piksel bitworks 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
