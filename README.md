@@ -2,6 +2,8 @@
 
 A tool for controlling a mongodb-server instance on windows.
 
+![Screenshot](http://i.imgur.com/gAz6F.png)
+
 ### Requirements
  * .NET 4 (could probably be loosened to 3.5 or even 2.0)
  * MongoDB C# Driver [github:mongodb/mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver)
@@ -13,3 +15,4 @@ A tool for controlling a mongodb-server instance on windows.
 ### Things to fix
  * Some bad naming in the source (button1 etc.)
  * Change the namespace to mongotray
+ * Decide a name and stick to it :3
