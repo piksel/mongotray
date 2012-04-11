@@ -31,7 +31,7 @@ namespace dbHandler
             InitializeComponent();
 
 #if DEBUG
-            mongoPath = @"a:\Projectz\.net\posTools\mongo\";
+            mongoPath = @".\";
             mongoBin = mongoPath + "mongod.exe";
             mongoData = mongoPath + "db";
 #else
